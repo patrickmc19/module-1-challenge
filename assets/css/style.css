@@ -19,6 +19,11 @@ p {
     font-size: 16px;
 }
 
+h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
 /* Class Selectors */
 .header {
     padding: 20px;

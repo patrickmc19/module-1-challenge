@@ -109,12 +109,12 @@ footer h2 {
 
 /* Class Selectors */
 
-.seo {
-    color: #d9dcd6; /* changes color of "seo" in header logo to grey  */
+.seo { /* applies grey text color to selected area */
+    color: #d9dcd6; 
 }
 
 
-.hero {
+.hero { /* applies image that takes up 100% of screen width */
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -123,12 +123,12 @@ footer h2 {
     background-position: center;
 }
 
-.float-left {
+.float-left { /* gives a floating appearance to selected element */
     float: left;
     margin-right: 25px;
 }
 
-.float-right {
+.float-right { /* gives a floating appearance to selected element */
     float: right;
     margin-left: 25px;
 }

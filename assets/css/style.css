@@ -6,32 +6,32 @@
 }
 
 /* Element Selectors */
-body {
+body { /* changes background color of selected element */
     background-color: #d9dcd6;
 }
 
-header {
+header { /* creates style for header including padding, background color, text color, and font family */
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-h1 {
+h1 { /* adjusts font size and display (to include top and bottom margins) of h1 element  */ 
     display: inline-block;
     font-size: 48px;
 }
 
-a {
+a { /* changes font color and removes decoration of links in header menu */ 
     color: #ffffff;
     text-decoration: none;
 }
 
-p {
+p { /* adjuts font size of all paragraph elements */ 
     font-size: 16px;
 }
 
-menu {
+menu { /* creates defined area and styling for menu element in header */
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -40,18 +40,18 @@ menu {
     list-style-type: none;
 }
 
-li {
+li { /* display header menu items inline-block with left margin to create separation */
     display: inline-block;
     margin-left: 25px;
 }
 
-section {
+section { /* width takes up 75% of view, displayed in blocks, with left margin */ 
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-article {
+article { /* creates artice area  */
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -60,16 +60,16 @@ article {
     color: #ffffff;
 }
 
-article img {
+article img { /* defines height of images within artice in px */ 
     max-height: 200px;
 }
 
-article h2 {
+article h2 { /* defines header within article, bottom margin and font size */
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-aside {
+aside { /* creates defined area and style for aside element */
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -81,29 +81,28 @@ aside {
     color: #ffffff;
 }
 
-aside p {
+aside p { /* applies style to the paragraphs within aside */
     margin-bottom: 32px;
 }
 
-aside img {
+aside img { /* applies style to images within aside */
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-h3 {
+h3 { /* applies bottom margin and center alignment to headers */
     margin-bottom: 10px;
     text-align: center;
 }
 
-footer {
+footer { /* defines footer padding, font, and center alignment */
     padding: 30px;
-    clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-footer h2 {
+footer h2 { /* changes the text size in the header 2 of the footer */
     font-size: 20px;
 }
 

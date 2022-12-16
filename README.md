@@ -6,7 +6,7 @@ Refractor the existing code to meet a certain set of accessibility standards. A 
 
 ## Challenge Screenshot
 
-TBD
+![image](https://user-images.githubusercontent.com/119803685/208007052-8514e2a7-eb91-4ca2-8ee2-84c5433e369a.png)
 
 ## Challenge URL
 
